@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item android:id="@+id/safety_tips"-->
+<!--            android:icon="@drawable/ic_home_menu"-->
+<!--            android:title="Home"/>-->
+<!--        <item android:id="@+id/realtime_map"-->
+<!--            android:icon="@drawable/ic_baseline_map_24"-->
+<!--            android:title="Real Time Map"/>-->
+<!--        <item android:id="@+id/realtime_stat"-->
+<!--            android:icon="@drawable/ic_baseline_bar_chart_24"-->
+<!--            android:title="Real Time Stats"/>-->
+<!--    </group>-->
+
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item android:title="Live News"-->
+<!--            android:icon="@drawable/ic_baseline_chrome_reader_mode_24">-->
+<!--            <menu>-->
+<!--                <item android:id="@+id/guardian_live"-->
+<!--                    android:title="Guardian Live News"/>-->
+<!--                <item android:id="@+id/bbc_live"-->
+<!--                    android:title="BBC Live News"/>-->
+<!--                <item android:id="@+id/cna_live"-->
+<!--                    android:title="CNA Asia Live News"/>-->
+<!--            </menu>-->
+<!--        </item>-->
+<!--    </group>-->
+</menu>

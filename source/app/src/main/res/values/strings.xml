@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Generator</string>
+    <string name="loading">Loading styles…</string>
+    <string name="uploading">Uploading picture…</string>
+    <string name="processing">Picture processing…</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
